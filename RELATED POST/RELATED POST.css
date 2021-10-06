@@ -10,10 +10,10 @@ height:2000px;
 
 
 .container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
+width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
 margin-left: auto;
 overflow:hidden;
 }
@@ -79,10 +79,11 @@ margin-bottom:35px;
 .post-rel .post-content .content-a{font-size: 18px;}
 
 
-.post-rel .post-content a{text-decoration:none;
-                           color:#000;
-						   font-weight:500;
-						   font-family: "Poppins", sans-serif;
+.post-rel .post-content a{
+    text-decoration:none;
+     color:#000;
+	font-weight:500;
+	font-family: "Poppins", sans-serif;
 }
 
 
@@ -98,9 +99,6 @@ margin-bottom:35px;
 .post-content  a:hover {color:#ed3974;}
 
 .post-content .post-meta-2 a i{font-weight:400;}
-
-
-
 
 
 

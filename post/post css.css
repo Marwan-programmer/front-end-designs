@@ -4,30 +4,24 @@ margin:0px;
 background-color:#dddddd8c;
 }
 
-*{ -webkit-box-sizing:border-box; 
+*{ 
+-webkit-box-sizing:border-box; 
  box-sizing:border-box; }
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- article{margin-top:30px;
+
+  article{
+      margin-top:30px;
 
  }
  
  
- .col{width:100%;
+ .col{
+     width:100%;
       margin: 0 auto;
       background-color:#fff;
 }
+
+
 @media (min-width: 1200px){
 .col-xl-8 {
  
