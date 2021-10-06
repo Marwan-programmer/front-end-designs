@@ -1,0 +1,45 @@
+body{margin:0;
+padding:0;
+background-color:#ddd;
+}
+*{ -webkit-box-sizing:border-box; 
+ box-sizing:border-box; }
+ 
+.slider{position:absolute;
+         top:90px;
+		 left:500px;
+		 background-color:#fff;
+		 padding:30px;
+		 box-shadow: 0 0 1px 2px #0000001c
+}
+
+.social{
+       
+}
+
+.social a{display:block;
+padding:0 70px 0 30px; 
+margin-bottom: 10px;
+    background-color: #4b6cd0;
+	height: 50px;
+	    font-size: 20px;
+    color: #ffffff;
+	font-weight: 600;
+    line-height: 50px;
+	text-decoration:none;
+}
+
+.social a i{  margin-right: 10px;   }
+.fab{
+font-weight:normal;
+}
+
+
+.social .face{background-color:#4b6cd0;}
+.social .tw{background-color:#49a7f3;}
+.social .gog{background-color:#db5c3a;}
+.social .gogp{background-color:#de3939;}
+
+
+
+
